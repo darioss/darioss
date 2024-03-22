@@ -5,13 +5,13 @@ Hello, welcome to my GitHub page. I'm **Dario Silva**, a brazillian web develope
 
 ## 🛠 My Skills
 <div>
-  <img aliagn="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  <img aliagn="center" alt="html5" src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white">
   <img aliagn="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img aliagn="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img aliagn="center" alt="html5" src="https://img.shields.io/badge/PHP-878DB8?style=for-the-badge&logo=php&logoColor=white">
   <img aliagn="center" alt="css3" src="https://img.shields.io/badge/PYTHON-1572B6?style=for-the-badge&logo=python&logoColor=white">
   <img aliagn="center" alt="js" src="https://img.shields.io/badge/RUBY-ab1105?style=for-the-badge&logo=ruby&logoColor=white">
-  <img aliagn="center" alt="js" src="https://img.shields.io/badge/JAVA-f7df1e?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img aliagn="center" alt="js" src="https://img.shields.io/badge/JAVA-e34c26?style=for-the-badge&logo=openjdk&logoColor=white">
   <img aliagn="center" alt="js" src="https://img.shields.io/badge/DELPHI-ab1105?style=for-the-badge&logo=delphi&logoColor=white">
   <img aliagn="center" alt="js" src="https://img.shields.io/badge/MYSQL-00718b?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
