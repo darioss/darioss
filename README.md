@@ -3,7 +3,7 @@
 
 Hello, welcome to my GitHub page. I'm **Dario Silva**, a brazillian web developer  passionate about solving problems through programming.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=darioss&theme=youtube-dark&card_width=499)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=darioss&theme=youtube-dark)](https://git.io/streak-stats)
 
 
 ## 🛠 My Skills
