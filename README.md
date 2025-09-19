@@ -22,6 +22,8 @@ Hello, welcome to my GitHub page. I'm **Dario Silva**, a brazillian web develope
   <img aliagn="center" alt="js" src="https://img.shields.io/badge/RUBY-ab1105?style=for-the-badge&logo=ruby&logoColor=white">
   <img aliagn="center" alt="js" src="https://img.shields.io/badge/JAVA-e34c26?style=for-the-badge&logo=openjdk&logoColor=white">
   <img aliagn="center" alt="js" src="https://img.shields.io/badge/PASCAL-007ACC?style=for-the-badge&logo=todoist&logoColor=white">
+  <img aliagn="center" alt="js" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge">
+  <img aliagn="center" alt="js" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge">
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darioss&langs_count=8)
@@ -40,6 +42,7 @@ Hello, welcome to my GitHub page. I'm **Dario Silva**, a brazillian web develope
   <img aliagn="center" alt="Jquery" src="https://img.shields.io/badge/JQUERY-F7f7f7?style=for-the-badge&logo=jquery&logoColor=0097d7">
   <img aliagn="center" alt="Bootstrap" src="https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117">
   <img aliagn="center" alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img aliagn="center" alt="TailwindCSS" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
 </div>
 
 ### 🛠 IDE's
@@ -48,11 +51,16 @@ Hello, welcome to my GitHub page. I'm **Dario Silva**, a brazillian web develope
   <img aliagn="center" alt="js" src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </div>
 
+### Containers
+<img aliagn="center" alt="js" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge">
+
 ### 🛠 Databases
 <div>
   <img aliagn="center" alt="js" src="https://img.shields.io/badge/MYSQL-00718b?style=for-the-badge&logo=mysql&logoColor=white">
   <img aliagn="center" alt="js" src="https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E">
   <img aliagn="center" alt="js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+  <img aliagn="center" alt="js" src="https://img.shields.io/badge/MariaDB-01529E?logo=mariadb&logoColor=white&style=for-the-badge">
+  <img aliagn="center" alt="js" src="https://img.shields.io/badge/-Oracle%20Database-F80000?logo=oracle&logoColor=white&style=for-the-badge">
 <div>
   
 ### 🛠 Clouds  
